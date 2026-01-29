@@ -1,2 +1,2 @@
-# Josue-Jairo-materia
-Hector Josue Hernandez Cruz (Factibilidad)
+# materia 
+el repositorio que solicito el docente jairo piña 
